@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulpoojith
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on projects based on Data Analytics
+- 👀 Currently working as Database Administrator
+- 🌱 Upskilling in Cybersecurity
+- 💞️ I’m looking to collaborate on learning together
 - 📫 How to reach me Gmail:poojith.p.rahul@gmail.com, Twitter: @PoojithRahul
 
 <!---
