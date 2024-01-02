@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulpoojith
 - 👀 Currently working as Database Administrator
-- 🌱 Upskilling in Cybersecurity
+- 🌱 Upskilling in Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on learning together
 - 📫 How to reach me Gmail:poojith.p.rahul@gmail.com, Twitter: @PoojithRahul
 
